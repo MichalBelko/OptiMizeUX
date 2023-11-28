@@ -3504,9 +3504,7 @@ body.search-is-visible {
 }
 
 @media screen and (max-width: 600px) {
-  .s-header__logo {
-    margin: 0 0 0 4rem;
-  }
+ 
   .s-header__nav {
     padding: var(--vspace-2_5) 4rem 3.6rem;
   }

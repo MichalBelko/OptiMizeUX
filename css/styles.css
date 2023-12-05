@@ -3482,6 +3482,7 @@ body.search-is-visible {
     height: auto;
     padding: var(--vspace-0_5) 0.4rem;
     line-height: var(--vspace-0_75);
+    text-align:center;
   }
   .s-header__nav .current a {
     background-color: transparent;

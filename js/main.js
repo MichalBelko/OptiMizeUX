@@ -182,7 +182,7 @@
       $heroSlider.slick({
         arrows: false,
         dots: false,
-        speed: 500,
+        speed: 250,
         fade: true,
         cssEase: "linear",
         autoplay: false,
